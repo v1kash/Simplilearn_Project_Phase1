@@ -20,6 +20,7 @@ public class LockedMePrototype {
 		System.out.println("\n*********************************************************");
 		System.out.println("*********************[LockedMe.com]**********************");
 		System.out.println("*********************************************************");
+		System.out.println("------------Developed by - Vikash Kumar -----------------");
 		System.out.println();
 		
 		System.out.println("Please enter your choice from the list below");
@@ -121,8 +122,6 @@ public class LockedMePrototype {
 		System.out.println("\n*********************************************************");
 		System.out.println("*********************[LockedMe.com]**********************");
 		System.out.println("*********************************************************");
-		System.out.println();
-		System.out.println("------------Developed by - Vikash Kumar -----------------");
 		System.out.println();
 		
         System.out.println("Please enter your choice from the list below");
